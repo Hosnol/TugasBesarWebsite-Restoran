@@ -22,7 +22,7 @@ $status=$_POST["status"];
   {
 	echo "<script>
 				alert('Anda Berhasil Registrasi !');
-				document.location='login.php';
+				document.location='index.php';
 		  </script>";
   }
   else 
